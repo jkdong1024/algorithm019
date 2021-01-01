@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.geektime.lesson</groupId>
-    <artifactId>Week_04</artifactId>
+    <artifactId>Week_03</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
         <plugins>

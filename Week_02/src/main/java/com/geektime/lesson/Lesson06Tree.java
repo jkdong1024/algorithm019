@@ -1,6 +1,8 @@
 package com.geektime.lesson;
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.LinkedList;
 import java.util.List;
 
 /**
@@ -45,8 +47,30 @@ public class Lesson06Tree {
             return;
         }
         res.add(root.val);
-        preorder(root.left,res);
-        preorder(root.right,res);
+        preorder(root.left, res);
+        preorder(root.right, res);
+    }
+
+    //  N叉树的前序遍历
+    //  题目：给定一个 N 叉树，返回其节点值的前序遍历。
+
+    public List<Integer> preorder(Node root) {
+        //  思路一：迭代
+        LinkedList<Node> stack = new LinkedList<Node>();
+        LinkedList<Integer> output = new LinkedList<Integer>();
+        if(root == null){
+            return output;
+        }
+        stack.add(root);
+        while(!stack.isEmpty()){
+            Node node = stack.pollLast();
+            output.add(node.val);
+            Collections.reverse(node.children);
+            for (Node child : node.children) {
+                stack.add(child);
+            }
+        }
+        return output;
     }
 
     //  N叉树的后序遍历
