@@ -1,8 +1,30 @@
 
 9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 A
 Week_01/README.md,8\4\84727dcd126ca2516dc620bac431df230250faee
 :
 
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+k
+;Week_02/src/main/java/com/geektime/lesson/Lesson06Heap.java,6/a/6a7c0cbc01ec4b1d0271681d9be63bb0abb877a7
+k
+;Week_02/src/main/java/com/geektime/lesson/Lesson06Tree.java,c/f/cfcb29a8aee0d8f49981d432418b046127868730
+c
+3Week_02/src/main/java/com/geektime/lesson/Node.java,7/8/787f4ca8bc7101548de00cb871e2b4dd0385a006
+g
+7Week_02/src/main/java/com/geektime/lesson/TreeNode.java,c/8/c8c0956296251346f107e03347e5c7665a6639d2
+b
+2Week_01/src/java/com/geektime/lesson/ListNode.java,5/6/565d288866607d1f74bb972a622521ad6c2ead68
+o
+?Week_01/src/java/com/geektime/lesson/SolutionLesson03Array.java,3/1/314f40c22ab671b16829dfeb66fa54ee09cf4a28
+t
+DWeek_01/src/java/com/geektime/lesson/SolutionLesson03LinkedList.java,4/3/43d6d9cbc438257840a1fe597b2a2e77aadc4f1d
+j
+:Week_01/src/java/com/geektime/lesson/SolutionLesson04.java,4/5/4505cd03f1504f69e778502bdddf4c2dd69c1a59
+k
+;Week_02/src/main/java/com/geektime/lesson/Lesson05Hash.java,f/5/f55c22c501ac8150054c84aafb049d8284223849
+n
+>Week_03/src/main/java/com/geektime/lesson/JavaRecTemplate.java,b/7/b78ddad5f4d53e00808bc7b8cc5cd2e7d32276e9
+n
+>Week_03/src/main/java/com/geektime/lesson/PythonRecTemplate.py,b/f/bfd827057d8084598512c86f9078cf942abba908
